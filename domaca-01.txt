@@ -1,0 +1,34 @@
+      Domaca uloha
+- Kazda uloha pojde so osobitneho suboru!
+
+1. Pravouhly trojuholnik, strvorec a diamant presun
+     do prihodne nazvanych funkcii. Nech sa daju
+     posuvat po osiach x a y. Potom ich vsetky vykresli
+     na roznych miestach na obrazovke.
+
+2. Vytvior funkcie pre stvorec s troma parametrami:
+       1. posun x
+       2. posun y
+       3. dlzka hrany
+     Temnto stvorec bude menit velkost podla velkosti
+     3-tieho parametra.
+
+3. Vytvor funkciu, ktora vypise: Hello world!
+   Volaj ju 5x za sebou.
+
+4. Vytvor funkciu s 2=-mi parametrami a vypise:
+       Sucet: ?
+       Nasobok: ?
+       Rozdiel: ?
+       Vysledok delenia: ?
+     Namiesto otaznikov'?' vypis spravny vysledok.
+5. Ulohu 1 som rozsiril o 3.parameter 2. ulohy
+
+6. Precitaj si na angliskej a slovenskejj wikipedii:
+      Variables (programming) - Premenna
+      Function (programming) - Funkcia
+      Procedure (programming) - Procedura
+      Imperative programming - Imperativne programovanie
+      Procedural programming - Proceduralne programovanie
+
+
